@@ -2,6 +2,9 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+let test: string = "test"
+test = "42"
+
 function App() {
   return (
     <div className="App">
